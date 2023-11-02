@@ -1,0 +1,1 @@
+# Training-Word2Vec-From-Scratch-For-Vietnamese
